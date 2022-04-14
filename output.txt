@@ -1,0 +1,18 @@
+NO IMPROVEMENT OUTPUT
+-------------------------
+dog
+dear
+deal
+sal
+seal
+cat
+tiger
+['dear', 'deal']
+
+
+IMPROVEMENT
+-------------------------
+dog
+dear
+deal
+['dear', 'deal']
